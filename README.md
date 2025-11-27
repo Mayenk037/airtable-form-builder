@@ -1,5 +1,3 @@
-# 📄 **FINAL README.md (Ready to Copy-Paste)**
-
 # Airtable Form Builder – Full Stack Application
 
 A full-stack web application that allows users to connect their Airtable account, select a Base → Table → Fields, build custom forms dynamically, apply conditional logic between fields, and store form responses in MongoDB (and Airtable if OAuth credentials are available).
