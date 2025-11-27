@@ -13,8 +13,20 @@ This project includes:
 * **Webhook handler for Airtable**
 
 ---
+## Tech Stack
 
-#  Features
+- **Frontend:** React (Vite)
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Other:** Airtable API (OAuth), REST APIs
+
+## Author
+
+- Name: Mayenk Chanore  
+- Role: B.Tech Engineering student  
+- This project is part of the “Airtable Form Builder” assignment for internship.
+  
+##  Features
 
 ###  1. **Airtable OAuth Login**
 
